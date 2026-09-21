@@ -11,3 +11,4 @@ C:\Users\User\Desktop\KSH2\obj\Debug\net8.0\refint\KSH2.dll
 C:\Users\User\Desktop\KSH2\obj\Debug\net8.0\KSH2.pdb
 C:\Users\User\Desktop\KSH2\obj\Debug\net8.0\ref\KSH2.dll
 C:\Users\User\Desktop\KSH2\obj\Debug\net8.0\KSH2.csproj.Up2Date
+C:\Users\User\Desktop\KSH2\obj\Debug\net8.0\KSH2.sourcelink.json

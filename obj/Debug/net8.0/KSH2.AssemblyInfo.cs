@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("KSH2")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+80f72d5eb443216a360340c65daabbc385823220")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0a40591c08fb00bfb259662e05ecee2b811da00a")]
 [assembly: System.Reflection.AssemblyProductAttribute("KSH2")]
 [assembly: System.Reflection.AssemblyTitleAttribute("KSH2")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
